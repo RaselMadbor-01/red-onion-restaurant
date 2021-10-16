@@ -1,0 +1,16 @@
+.banner-section{
+    background-image:url("../../../images/bannerbackground.png");
+    height:473px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+#submit{
+    transform: translate(-84px, 0px);
+}
+input:focus{
+    outline:none;
+}
+.form-control:focus {
+    box-shadow:none ;
+}

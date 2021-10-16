@@ -1,0 +1,31 @@
+.count-section{
+    width: 120px;
+    height: 48px;
+    border-radius: 50px;
+
+}
+.plus-count{
+    padding-top: 9px;
+    cursor: pointer;
+
+}
+.minus-count{
+    padding-top: 9px;
+    padding-left: 13px;
+    cursor: pointer;
+}
+.count{
+    margin: 0 25px;
+}
+.plus-count:hover{
+    color:red;
+}
+.plus-count:focus{
+    color:red;
+}
+.minus-count:hover{
+    color:red;
+}
+.minus-count:focus{
+    color:red;
+}

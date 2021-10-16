@@ -1,0 +1,46 @@
+
+.carousel-indicators {
+    top: 65px !important;
+    position:relative;
+};
+.carousel-indicators{
+    color:#000 !important;
+    background-color: #000 !important;
+}
+
+.carousel-indicators .active {
+    opacity: 1;
+   
+}
+
+
+.carousel-indicators button:hover{
+ background-color:red;
+}
+.carousel-indicators button:focus{
+    background-color:red;
+}
+.carousel-indicators button:active{
+    background-color:red;
+}
+.carousel-indicators [data-bs-target]:focus {
+    color:red;
+
+}
+.carousel-indicators [data-bs-target]:active {
+    color:red;
+
+}
+.carousel-indicators [data-bs-target]:hover {
+    color:red;
+
+} 
+.carousel-caption-text{
+    transform: translate(500px, -26px);
+    font-size: 15px;
+    font-weight: 400;
+}
+.carousel-button{
+    width: 40px !important;
+    margin-right: 43px !important;
+}

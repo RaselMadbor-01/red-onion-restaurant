@@ -1,0 +1,11 @@
+.login-banner{
+    background-image:url("../../images/bannerbackground.png");
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.error{
+    color:red;
+    margin:0;
+}
